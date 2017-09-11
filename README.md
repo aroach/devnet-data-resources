@@ -1,6 +1,8 @@
 # Cisco DevNet Data Developer Resources
 Resources for Data Developer, Big Data technologies
 
+Short link to this page: http://bit.ly/devnet-data-info
+
 # Data Learning Platform Sandbox
 
 A *developer* data platform closely aligned with the hottest technology areas in the market today: Big Data, Machine Learning, Deep Learning and AI
